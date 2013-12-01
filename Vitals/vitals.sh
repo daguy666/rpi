@@ -19,7 +19,7 @@ echo
    echo "_________________________________"
 
 
-
+#sleep gives it a more dramatic effect
 vcgencmd=/opt/vc/bin/vcgencmd 
 volts=measure_volts
 
