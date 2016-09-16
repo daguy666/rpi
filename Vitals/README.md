@@ -1,4 +1,4 @@
-##Vitals is a small shell script which gets that gets some basic stats of your Raspberry Pi running the Rasbian distribution. 
+#Vitals is a small shell script which gets that gets some basic stats of your Raspberry Pi running the Rasbian distribution. 
 ---
 #####The majority of the command runs using the vcgencmd command. This will recieve some system stats when ran. Here are a list of the commands;
 ```$ vcgencmd commands```
